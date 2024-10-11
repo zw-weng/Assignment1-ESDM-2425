@@ -56,7 +56,9 @@
             <td>Research on Robotic Process Automation in various sectors</td>
             <td>Searched Google Scholar using keywords: "Robotic Process Automation in Banking", "Robotic Process Automation in Customer Service", "Robotic Process Automation in Business"
             <br><br>
-            Article used: https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
+            Article used: 
+            <br>
+            1. https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
             </td>
         </tr>
         <tr>
