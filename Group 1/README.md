@@ -1,32 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment 1: Robotic Process Automation</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        table, th, td {
-            border: 1px solid black;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        h2, h3 {
-            margin-bottom: 10px;
-        }
-        .group-section, .logbook-section {
-            margin-bottom: 30px;
-        }
-    </style>
-</head>
+
 <body>
 
 <h2>Assignment 1: Robotic Process Automation</h2>
