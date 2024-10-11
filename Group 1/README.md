@@ -51,6 +51,19 @@
             Article used: https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
             </td>
         </tr>
+        <tr>
+            <td>3.</td>
+            <td>11-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on Robotic Process Automation in various sectors</td>
+            <td>Searched Google Scholar using keywords: "Robotic Process Automation in Management", "Robotic Process Automation in Healthcare"
+            <br><br>
+            Articles used: 
+            <br>
+            1. https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
+            2. https://typeset.io/papers/robotic-process-automation-rpa-in-healthcare-39g2lcan
+            </td>
+        </tr>
     </table>
 </div>
 
