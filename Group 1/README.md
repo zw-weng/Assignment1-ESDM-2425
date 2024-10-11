@@ -73,6 +73,18 @@
             2. https://typeset.io/papers/robotic-process-automation-rpa-in-healthcare-39g2lcan
             </td>
         </tr>
+        <tr>
+            <td>5.</td>
+            <td>11-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on Robotic Process Automation in various sectors</td>
+            <td>Searched Google Scholar using keywords: "Robotic Process Automation in Education", "Robotic Process Automation in HR", "Robotic Process Automation in the Government"
+            <br><br>
+            Article used: 
+            <br>
+            1. https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1561810&dswid=-2371
+            </td>
+        </tr>
     </table>
 </div>
 
