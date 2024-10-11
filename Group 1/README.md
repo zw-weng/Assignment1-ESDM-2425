@@ -36,6 +36,14 @@
         </tr>
         <tr>
             <td>1.</td>
+            <td>7-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on the definition of Robotic Process Automation</td>
+            <td>Searched Google using keyword: 
+            "What is Robotic Process Automation?"</td>
+        </tr>
+        <tr>
+            <td>1.</td>
             <td>10-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on Robotic Process Automation</td>
