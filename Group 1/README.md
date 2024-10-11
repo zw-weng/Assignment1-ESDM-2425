@@ -43,14 +43,14 @@
             "What is Robotic Process Automation?"</td>
         </tr>
         <tr>
-            <td>1.</td>
+            <td>2.</td>
             <td>10-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on Robotic Process Automation</td>
             <td>Searched Google Scholar using keywords: "Robotic Process Automation", "RPA"</td>
         </tr>
         <tr>
-            <td>2.</td>
+            <td>3.</td>
             <td>10-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on Robotic Process Automation in various sectors</td>
@@ -60,7 +60,7 @@
             </td>
         </tr>
         <tr>
-            <td>3.</td>
+            <td>4.</td>
             <td>11-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on Robotic Process Automation in various sectors</td>
