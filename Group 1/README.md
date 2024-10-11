@@ -43,10 +43,13 @@
         </tr>
         <tr>
             <td>2.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>10-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on Robotic Process Automation in various sectors</td>
+            <td>Searched Google Scholar using keywords: "Robotic Process Automation in Banking", "Robotic Process Automation in Customer Service", "Robotic Process Automation in Business"
+            <br>
+            Article used: https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
+            </td>
         </tr>
     </table>
 </div>
