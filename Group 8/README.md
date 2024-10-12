@@ -38,17 +38,19 @@
         </tr>
         <tr>
             <td>1.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>10/10/2024</td>
+            <td>Ng Shu Yu</td>
+            <td>Literature search on IEEE Xplore</td>
+            <td>Enterprise System</td>
+            <td>Found the paper M.R Majedi, & Osman, K. A. (2008). A Novel Architectural Design Model for Enterprise Systems: Evaluating Enterprise Resource Planning System and Enterprise Application Integration Against Service Oriented Architecture. https://doi.org/10.1109/icpca.2008.4783558
+
+</td>
         </tr>
         <tr>
             <td>2.</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>Literature search on IEEE Xplore</td>
             <td></td>
             <td></td>
         <tr>
