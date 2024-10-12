@@ -64,6 +64,16 @@
         <br>Article used:https://minds.wisconsin.edu/bitstream/handle/1793/80983/Agwaye,%20Joseph.pdf?sequence=1
         </td>
     </tr>
+<tr>
+        <th>5</th>
+        <th>12/10/24</th>
+        <td>Low Ying Xi</td>
+        <td>Search on "impact of enterprise information system in manufacturing" in Google Scholar
+        <br>Article used:http://teknik.trunojoyo.ac.id/penelitiandosen/Sabarudin%20Akhmad/2%202017%20Implementation%20of%20Enterprise%20Resource%20Planning%20System%20in.pdf
+        </td>
+    </tr>
+
+    
 </table>
 
 </body>
