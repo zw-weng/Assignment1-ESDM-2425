@@ -48,11 +48,11 @@
         </tr>
         <tr>
             <td>2.</td>
-            <td></td>
-            <td></td>
+            <td>10/10/2024</td>
+            <td>Ng Shu Yu</td>
             <td>Literature search on IEEE Xplore</td>
-            <td></td>
-            <td></td>
+            <td>Enterprise and Artificial Intelligence</td>
+            <td>Found the paper Kiril Anguelov. (2021). Applications of Artificial Intelligence for Optimization of Business Processes in Enterprise Resource Planning Systems. https://doi.org/10.1109/electronica52725.2021.9513677</td>
         <tr>
             <td>3.</td>
             <td></td>
