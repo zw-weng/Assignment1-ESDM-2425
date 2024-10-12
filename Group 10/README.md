@@ -48,6 +48,22 @@
         <td>Low Ying Xi</td>
         <td>Search on "ERP in Manufacturing Sector" in Google Scholar</td>
     </tr>
+    <tr>
+        <th>3</th>
+        <th>11/10/24</th>
+        <td>Low Ying Xi</td>
+        <td>Search on "Case studies manufacturing enterprise information system" in Google Scholar
+        <br> Article used:https://link.springer.com/chapter/10.1007/978-3-642-33980-6_54
+        </td>
+    </tr>
+    <tr>
+        <th>4</th>
+        <th>12/10/24</th>
+        <td>Low Ying Xi</td>
+        <td>Search on "Benefits of CRM implementation in manufacturing" in Google Scholar
+        <br>Article used:https://minds.wisconsin.edu/bitstream/handle/1793/80983/Agwaye,%20Joseph.pdf?sequence=1
+        </td>
+    </tr>
 </table>
 
 </body>
