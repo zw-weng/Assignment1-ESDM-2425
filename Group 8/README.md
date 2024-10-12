@@ -4,10 +4,10 @@
 
 <body>
 
-<h2>Assignment 1: Robotic Process Automation</h2>
+<h2>Assignment 1: Explorer Software and Academic Paper</h2>
 
 <div class="group-section">
-    <h3>Group Name: Group 8</h3>
+    <h3>Topic: Enterprise and Artificial Intelligence</h3>
     <h3>Group Members</h3>
     <table>
         <tr>
