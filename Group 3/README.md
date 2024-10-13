@@ -28,7 +28,7 @@
             <br>
             Article(s) found:
             <br>
-            1. https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html(https://www.investopedia.com/terms/s/scm.asp)
+            1. https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html
             2.https://en.wikipedia.org/wiki/Supply_chain_management
             3.https://www.ibm.com/topics/supply-chain-management
             </td>
