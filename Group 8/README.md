@@ -106,6 +106,14 @@
             <td>14/10/2024</td>
             <td>Ng Shu Yu</td>
             <td>Literature search on Google</td>
+            <td>Challenge in AI adoption</td>
+            <td>Found the paper Aldoseri, A., Al-Khalifa, K. N., & Hamouda, A. M. (2023). Re-Thinking Data Strategy and Integration for Artificial Intelligence: Concepts, Opportunities, and Challenges. Applied Sciences, 13(12), 7082. https://doi.org/10.3390/app13127082</td>
+        </tr>
+        <tr>
+            <td>10.</td>
+            <td>14/10/2024</td>
+            <td>Ng Shu Yu</td>
+            <td>Literature search on Google</td>
             <td>AI adoption in workforce</td>
             <td>Found the article Reskilling in the Age of AI. (2023, September). Harvard Business Review. https://hbr.org/2023/09/reskilling-in-the-age-of-ai</td>
         </tr>
