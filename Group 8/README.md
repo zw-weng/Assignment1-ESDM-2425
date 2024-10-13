@@ -83,7 +83,7 @@
             <td>Ng Shu Yu</td>
             <td>Literature search on Google</td>
             <td>ERP System, ERP Software System</td>
-            <td>Found the paper Guerrero, O. (2022, April 15). What is an ERP System and Why is it Important for Your Business? Orders in Seconds; Orders in Seconds. https://ordersinseconds.com/what-is-an-erp-system-and-why-is-it-important-for-your-business/</td>
+            <td>Found the article Guerrero, O. (2022, April 15). What is an ERP System and Why is it Important for Your Business? Orders in Seconds; Orders in Seconds. https://ordersinseconds.com/what-is-an-erp-system-and-why-is-it-important-for-your-business/</td>
         </tr>
         <tr>
             <td>7.</td>
