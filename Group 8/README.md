@@ -87,11 +87,11 @@
         </tr>
         <tr>
             <td>7.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>13/10/2024</td>
+            <td>Ng Shu Yu</td>
+            <td>Literature search on IEEE Xplore</td>
+            <td>AI in business</td>
+            <td>Found the paper None Kafila, Swetha S, Mittal, S., Vijaya Lakshmi V, Lourens, M., & Soni, M. (2024). Combining AI with Machine Learning to Improve Decision-Making in New Business Technologies. 376, 1–5. https://doi.org/10.1109/tqcebt59414.2024.10545201</td>
         </tr>
         <tr>
             <td>8.</td>
