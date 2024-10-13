@@ -40,7 +40,12 @@
             <td>Camily Tang Jia Lei</td>
             <td>Research on the definition of Robotic Process Automation</td>
             <td>Searched Google using keyword: 
-            "What is Robotic Process Automation?"</td>
+            "What is Robotic Process Automation?"
+            <br>
+            <br>
+            Article(s) found:
+            1. https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html
+            </td>
         </tr>
         <tr>
             <td>2.</td>
@@ -56,7 +61,7 @@
             <td>Research on Robotic Process Automation in various sectors</td>
             <td>Searched Google Scholar using keywords: "Robotic Process Automation in Banking", "Robotic Process Automation in Customer Service", "Robotic Process Automation in Business"
             <br><br>
-            Article used: 
+            Article(s) used: 
             <br>
             1. https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
             </td>
@@ -68,7 +73,7 @@
             <td>Research on Robotic Process Automation in various sectors</td>
             <td>Searched Google Scholar using keywords: "Robotic Process Automation in Management", "Robotic Process Automation in Healthcare"
             <br><br>
-            Articles used: 
+            Article(s) used: 
             <br>
             1. https://typeset.io/papers/the-rise-of-robotic-process-automation-in-the-banking-sector-2mp6330a15
             <br>
@@ -82,7 +87,7 @@
             <td>Research on Robotic Process Automation in various sectors</td>
             <td>Searched Google Scholar using keywords: "Robotic Process Automation in Education", "Robotic Process Automation in HR", "Robotic Process Automation in the Government"
             <br><br>
-            Article used: 
+            Article(s) used: 
             <br>
             1. https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1561810&dswid=-2371
             </td>
