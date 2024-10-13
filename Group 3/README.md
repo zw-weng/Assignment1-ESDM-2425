@@ -4,5 +4,5 @@
 ## GROUP MEMBERS
 |No. | Member Name | Matric No|
 |--|--|--|
-|1. | Goh Jing Yang  |A22EC0052|
+|1. | GOH JING YANG   |A22EC0052|
 |2. | MULYANI BINTI SARIPUDDIN | A22EC|
