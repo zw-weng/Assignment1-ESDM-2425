@@ -53,7 +53,14 @@
             <td>10-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on Robotic Process Automation</td>
-            <td>Searched Google Scholar using keywords: "Robotic Process Automation", "RPA"</td>
+            <td>Searched Google Scholar using keywords: "Robotic Process Automation", "RPA"            
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+            1. https://link.springer.com/chapter/10.1007/978-3-030-30429-4_19
+            2. https://link.springer.com/article/10.1007/s12599-018-0542-4
+            </td>
         </tr>
         <tr>
             <td>3.</td>
