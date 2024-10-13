@@ -101,6 +101,14 @@
             <td>Disadvantage of traditional enterprise, Enterprise system challenges</td>
             <td>Found the paper Massimo Regona, Tan Yigitcanlar, Xia, B., & Yi, R. (2022). Opportunities and Adoption Challenges of AI in the Construction Industry: A PRISMA Review. Journal of Open Innovation Technology Market and Complexity, 8(1), 45–45. https://doi.org/10.3390/joitmc8010045</td>
         </tr>
+        <tr>
+            <td>9.</td>
+            <td>14/10/2024</td>
+            <td>Ng Shu Yu</td>
+            <td>Literature search on Google</td>
+            <td>AI adoption in workforce</td>
+            <td>Found the article Reskilling in the Age of AI. (2023, September). Harvard Business Review. https://hbr.org/2023/09/reskilling-in-the-age-of-ai</td>
+        </tr>
     </table>
 </div>
 
