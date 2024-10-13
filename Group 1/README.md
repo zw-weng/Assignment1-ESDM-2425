@@ -11,7 +11,7 @@
     <table>
         <tr>
             <th>Name</th>
-            <th>Matric No.</th>
+            <th>Matrics No.</th>
         </tr>
         <tr>
             <td>Camily Tang Jia Lei</td>
