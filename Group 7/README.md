@@ -17,4 +17,4 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | 11/10/2024 | Neo Zheng Weng | Google Search | Enterprise Software | https://aws.amazon.com/what-is/enterprise-software/ |
 | 2 | 12/10/2024 | Neo Zheng Weng | SciSpace | ERP | https://typeset.io/search?q=ERP |
-| 3 | 13/10/2024 | Koh Su Xuan | Google Search | Enterprise Information System | https://www.sciencedirect.com/topics/computer-science/enterprise-information-system |
+| 3 | 14/10/2024 | Koh Su Xuan | Google Search | Enterprise Information System | https://www.sciencedirect.com/topics/computer-science/enterprise-information-system |
