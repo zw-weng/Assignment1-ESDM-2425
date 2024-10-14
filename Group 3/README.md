@@ -5,7 +5,7 @@
 |No. | Member Name | Matric No|
 |--|--|--|
 |1. | GOH JING YANG   |A22EC0052|
-|2. | MULYANI BINTI SARIPUDDIN | A22EC|
+|2. | MULYANI BINTI SARIPUDDIN | A22EC0223|
 
 <div class="logbook-section">
     <h3>Research Content Logbook</h3>
@@ -35,10 +35,21 @@
         </tr>
        <tr>
             <td>2.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>13/10/24</td>
+            <td>Mulyani Saripuddin</td>
+            <td>Research on sustainability in Suppy Chain Management</td>
+            <td>Searched Google using keyword: 
+            "Sustainability in Supply Chain Management"
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+            1. https://www.weforum.org/agenda/2022/01/sustainability-in-supply-    chains/
+            <br>
+            2. https://www2.deloitte.com/us/en/pages/operations/articles/sustainable-supply-chain.html
+            <br>
+            3. https://hbr.org/2021/07/what-does-it-really-take-to-build-a-sustainable-supply-chain
+            </td>
         </tr>
       <tr>
             <td>3.</td>
