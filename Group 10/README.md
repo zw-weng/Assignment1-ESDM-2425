@@ -40,17 +40,30 @@
         <th>1</th>
         <th>9/10/24</th>
         <td>Low Ying Xi</td>
-        <td>Low Ying Xi</td>
         <td>Search on "Enterprise Information System in Manufacturing Sector" in Google Scholar</td>
     </tr>
     <tr>
         <th>2</th>
+        <th>9/10/24</th>
+        <td>Nur Aleysha Qurratu'aini Binti Mat Salleh</td>
+        <td>Search on "Enterprise Information System in Manufacturing Industry" in Google Scholar</td>
+    </tr>
+    <tr>
+        <th>3</th>
         <th>10/10/24</th>
         <td>Low Ying Xi</td>
         <td>Search on "ERP in Manufacturing Sector" in Google Scholar</td>
     </tr>
     <tr>
-        <th>3</th>
+        <th>4</th>
+        <th>10/10/24</th>
+        <td>Nur Aleysha Qurratu'aini Binti Mat Salleh</td>
+        <td>Search on "Enterprise Information System in Manufacturing Industry" in SciSpace
+        <br>Article used:https://typeset.io/papers/an-integrated-framework-of-enterprise-information-systems-in-22v0suol9w
+        </td>
+    </tr>
+    <tr>
+        <th>5</th>
         <th>11/10/24</th>
         <td>Low Ying Xi</td>
         <td>Search on "Case studies manufacturing enterprise information system" in Google Scholar
@@ -58,7 +71,7 @@
         </td>
     </tr>
     <tr>
-        <th>4</th>
+        <th>6</th>
         <th>12/10/24</th>
         <td>Low Ying Xi</td>
         <td>Search on "Benefits of CRM implementation in manufacturing" in Google Scholar
@@ -66,7 +79,7 @@
         </td>
     </tr>
 <tr>
-        <th>5</th>
+        <th>7</th>
         <th>12/10/24</th>
         <td>Low Ying Xi</td>
         <td>Search on "impact of enterprise information system in manufacturing" in Google Scholar
