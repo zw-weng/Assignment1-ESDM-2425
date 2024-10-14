@@ -40,6 +40,7 @@
         <th>1</th>
         <th>9/10/24</th>
         <td>Low Ying Xi</td>
+        <td>Low Ying Xi</td>
         <td>Search on "Enterprise Information System in Manufacturing Sector" in Google Scholar</td>
     </tr>
     <tr>
