@@ -44,7 +44,7 @@
             <br>
             Article(s) found:
             <br>
-            1. https://www.weforum.org/agenda/2022/01/sustainability-in-supply-    chains/
+            1. https://www.weforum.org/agenda/2022/01/sustainability-in-supply-chains/
             <br>
             2. https://www2.deloitte.com/us/en/pages/operations/articles/sustainable-supply-chain.html
             <br>
