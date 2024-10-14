@@ -44,11 +44,10 @@
             <br>
             Article(s) found:
             <br>
-            1. https://www.weforum.org/agenda/2022/01/sustainability-in-supply-chains/
+            1. https://www.netsuite.com/portal/resource/articles/erp/supply-chain-sustainability.shtml#:~:text=What%20Is%20Supply%20Chain%20Sustainability,every%20transportation%20link%20in%20between 
             <br>
-            2. https://www2.deloitte.com/us/en/pages/operations/articles/sustainable-supply-chain.html
+            2. https://www.ibm.com/topics/sustainable-supply-chain-management 
             <br>
-            3. https://hbr.org/2021/07/what-does-it-really-take-to-build-a-sustainable-supply-chain
             </td>
         </tr>
       <tr>
