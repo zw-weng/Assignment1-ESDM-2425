@@ -41,7 +41,7 @@
             <td>Koh Li Hui</td>
             <td>Searched for materials using Yahoo with keywords "key components of successful enterprise modernization"</td>
             <td>- Article Title: The impact of digital transformation on enterprise performance: An empirical analysis based on China’s manufacturing export enterprises<br>
-                - Keywords used: "comparative analysis key components of successful enterprise modernization"
+                - Keywords used: "comparative analysis key components of successful enterprise modernization"<br>
                 - Article found: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299723#sec001
             </td>
         </tr>
