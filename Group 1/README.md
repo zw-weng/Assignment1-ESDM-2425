@@ -100,6 +100,30 @@
             1. https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1561810&dswid=-2371
             </td>
         </tr>
+        <tr>
+            <td>6.</td>
+            <td>11-10-2024</td>
+            <td>Maisarah binti Rizal</td>
+            <td>Research on fundamentals of Robotic Process Automation</td>
+            <td>Searched Springer Link using keywords: "Robotic Process Automation"
+            <br><br>
+            Article(s) used: 
+            <br>
+            1. https://link.springer.com/article/10.1007/s12599-018-0542-4
+            </td>
+        </tr>
+        <tr>
+            <td>7.</td>
+            <td>11-10-2024</td>
+            <td>Maisarah binti Rizal</td>
+            <td>Research on fundamentals of Robotic Process Automation</td>
+            <td>Searched Science Direct using keywords: "Robotic Process Automation"
+            <br><br>
+            Article(s) used: 
+            <br>
+            1. https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S0306437924000899
+            </td>
+        </tr>
     </table>
 </div>
 
