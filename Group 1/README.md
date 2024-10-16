@@ -150,6 +150,31 @@
         </tr>
         <tr>
             <td>10.</td>
+            <td>15-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on benefits of Robotic Process Automation</td>
+            <td>Searched Google using keywords: "Benefits of Robotic Process Automation"
+            <br><br>
+            Article(s) found: 
+            <br>
+            1. https://www.blueprism.com/automation-journey/robotic-process-automation-rpa-benefits/
+            2. https://10xds.com/blog/insights/advantages-of-robotic-process-automation/
+            </td>
+        </tr>
+        <tr>
+            <td>10.</td>
+            <td>15-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on drawbacks of Robotic Process Automation</td>
+            <td>Searched Google using keywords: "Drawbacks of Robotic Process Automation"
+            <br><br>
+            Article(s) used: 
+            <br>
+            1. https://www.channele2e.com/post/pros-cons-robotic-process-automation
+            </td>
+        </tr>
+        <tr>
+            <td>10.</td>
             <td>16-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on statistics of Robotic Process Automation</td>
