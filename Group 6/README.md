@@ -65,5 +65,14 @@
                 - Article found: https://dergipark.org.tr/en/download/article-file/363480
             </td>
         </tr>
+        <tr>
+            <td>6.</td>
+            <td>16/10/2024</td>
+            <td>Koh Li Hui</td>
+            <td>Figure out the differences between digital transformation and enterprise modernization</td>
+            <td>- Searching for the definition of digital transformation and enterprise modernization<br>
+                - Identified key difference between both of them to understand more deeply about this topic
+            </td>
+        </tr>
     </table>
 </div>
