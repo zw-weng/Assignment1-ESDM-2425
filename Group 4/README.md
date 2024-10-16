@@ -54,10 +54,10 @@
             <td>10-10-2024</td>
             <td>Nadhrah NurSabrina</td>
             <td></td>
-            <td>Searched Google Scholar using keywords:       
+            <td>Searched Google Scholar using keywords : optimizing enterprise system design: architectures, technologies and best practices       
             <br>
             <br>
-            Article(s) found:
+            Article(s) found:https://vectoral.org/index.php/IJSICS/article/view/142
             <br>
             1. 
             </td>
