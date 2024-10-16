@@ -124,6 +124,42 @@
             1. https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S0306437924000899
             </td>
         </tr>
+        <tr>
+            <td>8.</td>
+            <td>13-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on how Robotic Process Automation is built</td>
+            <td>Searched Google using keywords: "Robotic Process Automation Process"
+            <br><br>
+            Article(s) found: 
+            <br>
+            1. https://terranoha.com/what-is-robotic-process-automation-rpa/
+            </td>
+        </tr>
+        <tr>
+            <td>9.</td>
+            <td>13-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on history of Robotic Process Automation</td>
+            <td>Searched Google using keywords: "Robotic Process Automation Timeline"
+            <br><br>
+            Article(s) found: 
+            <br>
+            1. https://ggsitc.com/blog/what-is-robotic-process-automation-rpa
+            </td>
+        </tr>
+        <tr>
+            <td>10.</td>
+            <td>16-10-2024</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Research on statistics of Robotic Process Automation</td>
+            <td>Searched Google using keywords: "Robotic Process Automation Statistics 2024"
+            <br><br>
+            Article(s) found: 
+            <br>
+            1. https://scoop.market.us/robotic-process-automation-statistics/
+            </td>
+        </tr>
     </table>
 </div>
 
