@@ -94,6 +94,7 @@
             Article(s) found:
             <br>
                 1. https://www.peaktech.com/blog/crucial-touch-points-in-the-modern-supply-chain/#:~:text=Traditional%20supply%20chain%20management%20focuses,satisfaction%20of%20the%20end%20user.
+                <br>
                 2. https://www.flexport.com/blog/traditional-versus-modern-supply-chain-management/
             </td>
         </tr>
