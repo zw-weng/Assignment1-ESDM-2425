@@ -6,7 +6,7 @@
 |--|--|--|
 |1. | GOH JING YANG   |A22EC0052|
 |2. | MULYANI BINTI SARIPUDDIN | A22EC0223|
-|3. |  | A22EC|
+|3. | TTIEW CHUAN RONG | A22EC0112|
 
 <div class="logbook-section">
     <h3>Research Content Logbook</h3>
