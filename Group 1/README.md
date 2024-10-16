@@ -162,7 +162,7 @@
             </td>
         </tr>
         <tr>
-            <td>10.</td>
+            <td>11.</td>
             <td>15-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on drawbacks of Robotic Process Automation</td>
@@ -174,7 +174,7 @@
             </td>
         </tr>
         <tr>
-            <td>10.</td>
+            <td>12.</td>
             <td>16-10-2024</td>
             <td>Camily Tang Jia Lei</td>
             <td>Research on statistics of Robotic Process Automation</td>
