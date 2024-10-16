@@ -53,9 +53,14 @@
         </tr>
       <tr>
             <td>3.</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>14/10/24</td>
+            <td>Research on technology trends in Supply Chain Management</td>
+            <td>Searched Google using keyword: "Technology trends in Supply Chain Management"
+            <br>
+            1. https://kpmg.com/xx/en/our-insights/ai-and-technology/supply-chain-trends-2024.html
+            <br>
+            2. https://www.microsoft.com/en-us/dynamics-365/topics/supply-chain-management/supply-chain-technology-innovation-trends#:~:text=Emerging%20supply%20chain%20technologies%20focus,optimize%20manufacturing%20and%20fulfillment%20processes. 
+            </td>
             <td></td>
         </tr>
       <tr>
