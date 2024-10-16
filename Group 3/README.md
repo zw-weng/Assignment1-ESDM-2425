@@ -69,13 +69,43 @@
         </tr>
       <tr>
             <td>4.</td>
+            <td>15/10/24</td>
+            <td>Mulyani Saripuddin</td>
+            <td>Research on blockchain in Supply Chain Management</td>
+            <td>Searched Google using keyword: "Blockchain in Supply Chain Management"
+            <br>
+            <br>
+                Article(s) found:
+                <br>
+                1. https://www.paltron.com/insights-en/the-role-of-blockchain-in-supply-chain-management-scm#:~:text=Blockchain%20technology%20can%20be%20used,verify%20compliance%20with%20specific%20requirements.
+                <br>
+                2. Maagi, Barnabas. (2023). Applicability of blockchain technology in improving efficiency in supply chain operations in public procurement in Tanzania. International Journal of Research in Business and Social Science (2147- 4478). 12. 91-98. 10.20525/ijrbs.v12i9.2995.<br> 
+                Link: https://www.researchgate.net/publication/376641503_Applicability_of_blockchain_technology_in_improving_efficiency_in_supply_chain_operations_in_public_procurement_in_Tanzania
+            </td>
+        </tr>
+      <tr>
+            <td>5.</td>
+            <td>15/10/24</td>
+            <td>Mulyani Saripuddin</td>
+            <td>Comparative analysis of traditional vs modern supply chain</td>
+            <td>Searched Google using keyword: "Traditional vs Modern Supply Chain Management"
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+                1. https://www.peaktech.com/blog/crucial-touch-points-in-the-modern-supply-chain/#:~:text=Traditional%20supply%20chain%20management%20focuses,satisfaction%20of%20the%20end%20user.
+                2. https://www.flexport.com/blog/traditional-versus-modern-supply-chain-management/
+            </td>
+        </tr>
+     <tr>
+            <td>6.</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-      <tr>
-            <td>5.</td>
+    <tr>
+            <td>7.</td>
             <td></td>
             <td></td>
             <td></td>
