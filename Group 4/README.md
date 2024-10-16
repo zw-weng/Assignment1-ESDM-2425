@@ -54,7 +54,7 @@
             <td>10-10-2024</td>
             <td>Nadhrah NurSabrina</td>
             <td></td>
-            <td>Searched Google Scholar using keywords : optimizing enterprise system design: architectures, technologies and best practices       
+            <td>Searched Google Scholar using keywords : designing for scability and flexibility    
             <br>
             <br>
             Article(s) found:
