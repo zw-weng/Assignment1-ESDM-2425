@@ -112,9 +112,24 @@
                 <br>
                 2. https://www.tandfonline.com/doi/pdf/10.1057/palgrave.jors.2601038
                 <br>
+            </td>
         </tr>
     <tr>
             <td>7.</td>
+            <td>Tiew Chuan Rong</td>
+            <td>Importance of Supply Chain Management</td>
+            <td>17/10/2024</td>
+             <td>Searched Google using keyword: "Importance of Supply Chain Management"
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+                1. https://www.planettogether.com/blog/the-importance-of-supply-chain-management
+                <br>
+            </td>
+        </tr>
+         <tr>
+            <td>8.</td>
             <td></td>
             <td></td>
             <td></td>
