@@ -116,9 +116,9 @@
         </tr>
     <tr>
             <td>7.</td>
+            <td>17/10/2024</td>
             <td>Tiew Chuan Rong</td>
             <td>Importance of Supply Chain Management</td>
-            <td>17/10/2024</td>
              <td>Searched Google using keyword: "Importance of Supply Chain Management"
             <br>
             <br>
