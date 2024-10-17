@@ -110,6 +110,8 @@
             <br>
                 1. https://dl.acm.org/doi/fullHtml/10.1145/376134.376165
                 <br>
+                2. https://www.tandfonline.com/doi/pdf/10.1057/palgrave.jors.2601038
+                <br>
         </tr>
     <tr>
             <td>7.</td>
