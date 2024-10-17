@@ -100,10 +100,16 @@
         </tr>
      <tr>
             <td>6.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>17/10/2024</td>
+            <td>Tiew Chuan Rong</td>
+            <td>Technology for supporting supply chain management</td>
+            <td>Searched Google using keyword: "Supply Chain Management System"
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+                1. https://dl.acm.org/doi/fullHtml/10.1145/376134.376165
+                <br>
         </tr>
     <tr>
             <td>7.</td>
