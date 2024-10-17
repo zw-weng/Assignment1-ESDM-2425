@@ -78,7 +78,7 @@
         <br>Article used:https://minds.wisconsin.edu/bitstream/handle/1793/80983/Agwaye,%20Joseph.pdf?sequence=1
         </td>
     </tr>
-<tr>
+    <tr>
         <th>7</th>
         <th>12/10/24</th>
         <td>Low Ying Xi</td>
@@ -86,8 +86,30 @@
         <br>Article used:http://teknik.trunojoyo.ac.id/penelitiandosen/Sabarudin%20Akhmad/2%202017%20Implementation%20of%20Enterprise%20Resource%20Planning%20System%20in.pdf
         </td>
     </tr>
-
-    
+    <tr>
+        <th>8</th>
+        <th>13/10/24</th>
+        <td>Low Ying Xi</td>
+        <td>Search on "MES performance advantage" in Google 
+        <br>Article used:https://www.infor.com/resources/the-top-10-benefits-of-an-mes-system 
+        </td>
+    </tr>
+    <tr>
+        <th>9</th>
+        <th>13/10/24</th>
+        <td>Low Ying Xi</td>
+        <td>Search on "impact of PLM in manufacturing" in Google Scholar
+        <br>Article used:https://www.sciencedirect.com/science/article/pii/S1877705815045075
+        </td>
+    </tr>
+    <tr>
+        <th>10</th>
+        <th>14/10/24</th>
+        <td>Low Ying Xi</td>
+        <td>Search on "impact of PLM in manufacturing" in Google Scholar
+        <br>Article used:https://link.springer.com/chapter/10.1007/978-3-642-35758-9_45#citeas
+        </td>
+    </tr>
 </table>
 
 </body>
