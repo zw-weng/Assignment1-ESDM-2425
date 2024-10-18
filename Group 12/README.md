@@ -1,4 +1,3 @@
-<-- # Group 12 -->
 # Group 12 
 
 # TITLE: Past, Current and Future Trend in Enterprise Information System
@@ -29,9 +28,10 @@
             <br>
             Article(s) found:
             <br>
-            1.https://r.search.yahoo.com/_ylt=AwrKHEhehgxnKAIAvN7jPwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1730083679/RO=10/RU=https%3a%2f%2fwww.britannica.com%2ftopic%2finformation-system/RK=2/RS=WQK5dxZ4M.klW9qonaArIlWGbyE-
+1.https://r.search.yahoo.com/_ylt=AwrKHEhehgxnKAIAvN7jPwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1730083679/RO=10/RU=https%3a%2f%2fwww.britannica.com%2ftopic%2finformation-system/RK=2/RS=WQK5dxZ4M.klW9qonaArIlWGbyE-
+                <br>
             2.https://en.wikipedia.org/wiki/Enterprise_information_system
-
+                <br>
             </td>
         </tr>
        <tr>
@@ -71,7 +71,6 @@
                 <br> 
                 Link: 
             </td>
-        </tr>
       <tr>
             <td>5.</td>
             <td>  /10/24</td>
