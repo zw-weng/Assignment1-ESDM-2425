@@ -81,6 +81,12 @@
                 <br>
                 2. Maagi, Barnabas. (2023). Applicability of blockchain technology in improving efficiency in supply chain operations in public procurement in Tanzania. International Journal of Research in Business and Social Science (2147- 4478). 12. 91-98. 10.20525/ijrbs.v12i9.2995.<br> 
                 Link: https://www.researchgate.net/publication/376641503_Applicability_of_blockchain_technology_in_improving_efficiency_in_supply_chain_operations_in_public_procurement_in_Tanzania
+                <br>
+                3. https://consensys.io/blockchain-use-cases/supply-chain-management
+                <br>
+                4. https://www.turing.com/resources/blockchain-for-supply-chains#blockchain-use-cases-in-supply-chain-management
+                <br>
+                5. https://cointelegraph.com/explained/how-blockchain-technology-is-used-in-supply-chain-management
             </td>
         </tr>
       <tr>
