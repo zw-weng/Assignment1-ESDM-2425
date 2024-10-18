@@ -25,38 +25,60 @@
               - Browsed real-world examples of enterprise modernization initiatives across industries.
           </td>
         </tr>
-       <tr>
+        <tr>
             <td>2.</td>
+            <td>11/10/2024</td>
+            <td>Koh Li Hui, Navasarathy</td>
+            <td>Task Distribution for Short Paper</td>
+            <td>- Abstract, Keywords, Introduction: Li Hui<br>
+                - Comparative Analysis of Previous Studies (each person does 2/3 studies): Li Hui & Nava<br>
+                - Opinion (Advantages and Disadvantages based on our own selected studies): Li Hui & Nava<br>
+                - Conclusion: Nava<br>
+                - References: Li Hui & Nava
+            </td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>11/10/2024 - Present</td>
+            <td>Koh Li Hui, Navasarathy</td>
+            <td>Collaborative Working and Editing the Short Paper on Google Docs</td>
+            <td>- Opened a Google Doc for Assignment 1.
+                - Editing the content based on our own research.
+                - Refining sections of the short paper for structure, clarity, and adherence to formatting guidelines and rubrics provided in the assignment PDF.
+            </td>
+        </tr>
+       <tr>
+            <td>4.</td>
             <td>11/10/2024</td>
             <td>Koh Li Hui</td>
             <td>Searched materials on Microsoft Bing</td>
             <td>- Article Title: Secrets Of Successful Digital Transformation<br>
                 - Keywords used: "comparative analysis key components of successful enterprise modernization"<br>
-                - Article found: https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/what-we-do/enterprise-modernization-platforms-cloud/tw_report_empc_forrester_modernization_opportunity_snapshot.pdf
+                - Article used: https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/what-we-do/enterprise-modernization-platforms-cloud/tw_report_empc_forrester_modernization_opportunity_snapshot.pdf
             </td>
         </tr>
       <tr>
-            <td>3.</td>
+            <td>5.</td>
             <td>12/10/2024</td>
             <td>Koh Li Hui</td>
             <td>Searched materials on Yahoo</td>
             <td>- Article Title: The impact of digital transformation on enterprise performance: An empirical analysis based on China’s manufacturing export enterprises<br>
                 - Keywords used: "key components of successful enterprise modernization"<br>
-                - Article found: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299723#sec001
+                - Article used: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299723#sec001
             </td>
         </tr>
       <tr>
-            <td>4.</td>
+            <td>6.</td>
             <td>12/10/2024</td>
             <td>Koh Li Hui</td>
             <td>Searched materials on Yahoo</td>
             <td>- Article Title: Understanding Strategic Enterprise Modernization<br>
                 - Keywords used: "key components of successful enterprise modernization"<br>
-                - Article found: https://www.cai.io/resources/thought-leadership/understanding-strategic-enterprise-modernization
+                - Article used: https://www.cai.io/resources/thought-leadership/understanding-strategic-enterprise-modernization
             </td>
         </tr>
       <tr>
-            <td>5.</td>
+            <td>7.</td>
             <td>15/10/2024</td>
             <td>Koh Li Hui</td>
             <td>Searched materials on Google Scholar</td>
@@ -66,7 +88,7 @@
             </td>
         </tr>
         <tr>
-            <td>6.</td>
+            <td>8.</td>
             <td>16/10/2024</td>
             <td>Koh Li Hui</td>
             <td>Figure out the differences between digital transformation and enterprise modernization</td>
