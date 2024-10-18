@@ -7,6 +7,7 @@
 |1. | Vinesh Vijayah Kumar   |A22EC   |
 |2. | TIEW CHAUN SHEN | A22EC0113|
 
+
 <div class="logbook-section">
     <h3>Research Content Logbook</h3>
     <table>
@@ -19,111 +20,47 @@
         </tr>
         <tr>
             <td>1.</td>
-            <td>12/10/24</td>
-            <td>TIEW CHUAN SHEN </td>
+            <td>14/10/24</td>
+            <td>TIEW CHUAN SHEN</td>
             <td>Research on the definition of Enterprise Information System</td>
-            <td>Searched Chrome using keyword: 
-            "Enterprise Information System"
-            <br>
-            <br>
-            Article(s) found:
-            <br>
-1.https://r.search.yahoo.com/_ylt=AwrKHEhehgxnKAIAvN7jPwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1730083679/RO=10/RU=https%3a%2f%2fwww.britannica.com%2ftopic%2finformation-system/RK=2/RS=WQK5dxZ4M.klW9qonaArIlWGbyE-
-                <br>
-            2.https://en.wikipedia.org/wiki/Enterprise_information_system
-                <br>
-            </td>
-        </tr>
-       <tr>
-            <td>2.</td>
-            <td>  /10/24</td>
-            <td>Vinesh Vijayah kumar</td>
-            <td>Research on </td>
-            <td>Searched Google using keyword: 
-            "                          "
-            <br>
-            <br>
-            Article(s) found:
-            <br>
-            1.  
-            <br>
-            2. 
-            <br>
-            </td>
-        </tr>
-      <tr>
-  
-            </td>
-        </tr>
-      <tr>
-            <td>4.</td>
-            <td>  /10/24</td>
-            <td>    </td>
-            <td>Research on                 </td>
-            <td>Searched Google using keyword: "            "
-            <br>
-            <br>
+            <td>Searched Chrome using keyword: "Enterprise Information System"
+                <br><br>
                 Article(s) found:
                 <br>
-                1. 
+                1. <a href="https://www.britannica.com/topic/information-system">https://www.britannica.com/topic/information-system</a>
                 <br>
-                2. 
-                <br> 
-                Link: 
+                2. <a href="https://en.wikipedia.org/wiki/Enterprise_information_system">https://en.wikipedia.org/wiki/Enterprise_information_system</a>
             </td>
-      <tr>
-            <td>5.</td>
+        </tr>
+        <tr>
+            <td>2.</td>
             <td>  /10/24</td>
-            <td>        </td>
-            <td></td>
-            <td>Searched Google using keyword: "                "
-            <br>
-            <br>
-            Article(s) found:
-            <br>
-                1. 
+            <td>Vinesh Vijayah Kumar</td>
+            <td>Research on the importance of EIS in business</td>
+            <td>Searched Google using keyword: "importance of Enterprise Information System in business"
+                <br><br>
+                Article(s) found:
                 <br>
-                2. 
+                1. <a href="https://examplelink1.com">https://examplelink1.com</a>
+                <br>
+                2. <a href="https://examplelink2.com">https://examplelink2.com</a>
             </td>
         </tr>
-     <tr>
-            <td>6.</td>
-            <td>  /10/2024</td>
-            <td>Tiew Chuan Shen</td>
-            <td>                  </td>
-            <td>Searched Google using keyword: "          "
-            <br>
-            <br>
-            Article(s) found:
-            <br>
-                1. 
+        <tr>
+            <td>3.</td>
+            <td>  /10/24</td>
+            <td>Vinesh Vijayah Kumar</td>
+            <td>Research on future trends in EIS</td>
+            <td>Searched Google using keyword: "future trends in Enterprise Information Systems"
+                <br><br>
+                Article(s) found:
                 <br>
-                2.
+                1. <a href="https://examplelink3.com">https://examplelink3.com</a>
                 <br>
+                2. <a href="https://examplelink4.com">https://examplelink4.com</a>
             </td>
-        </tr>
-    <tr>
-            <td>7.</td>
-            <td>  /10/2024</td>
-            <td></td>
-            <td></td>
-             <td>Searched Google using keyword: ""
-            <br>
-            <br>
-            Article(s) found:
-            <br>
-                1. 
-                <br>
-            </td>
-        </tr>
-         <tr>
-            <td>8.</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </table>
 </div>
 
-
+            
