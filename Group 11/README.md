@@ -9,4 +9,5 @@
 | No. | Date | Student Name | Activity | Details |
 | --- | --- | --- | --- | --- |
 | 1 | 14/10/2024 | Tang Yan Qing | Researching the Definition of TOGAF | https://www.cio.com/article/228328/what-is-togaf-an-enterprise-architecture-methodology-for-business.html |
+| 2 | 19/10/2024 | NUR ARINI FATIHAH | Researching TOGAF's Approach to Enterprise Architecture Frameworks (EAFs)| https://www.bmc.com/blogs/togaf-open-group-architecture-framework/ |
 
