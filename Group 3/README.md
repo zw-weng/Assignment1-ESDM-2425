@@ -136,10 +136,16 @@
         </tr>
          <tr>
             <td>8.</td>
+            <td>18/10/24</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Evolution of Supply Chain Management</td>
+            <td>Searched Google using keyword: "Evolution of Supply Chain Management
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+            1. https://transportgeography.org/contents/chapter7/logistics-freight-distribution/evolution-supply-chain-management/
+            </td>
         </tr>
     </table>
 </div>
