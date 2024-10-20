@@ -152,9 +152,21 @@
         <tr>
             <td>9.</td>
             <td>20/10/24</td>
-            <td></td>
+            <td>GOH JING YANG</td>
             <td>Improve Supply Chain Sustainability</td>
             <td>Searched Google using keyword: "Improve Supply Chain Management Sustainability
+            <br>
+            <br>
+            Article(s) found:
+            <br>
+            1. https://transportgeography.org/contents/chapter7/logistics-freight-distribution/evolution-supply-chain-management/
+            </td>
+        </tr>
+        <td>10.</td>
+            <td>20/10/24</td>
+            <td>GOH JING YANG</td>
+            <td>Impact of industry 4.0 technologies on sustainable supply chain performance</td>
+            <td>Searched Google using keyword: "Impact Supply Chain Management 
             <br>
             <br>
             Article(s) found:
