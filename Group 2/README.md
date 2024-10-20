@@ -6,7 +6,7 @@
 |1. | MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM |A22EC0207 |
 |2. | CHAI YU TONG | A22EC0145 |
 
-##MILESTONES
+## MILESTONES
 |No. | Date | Contributor | Activity | Description |
 |--|--|--|--|--|
 |1. | 07/10/2024 | Daniel, Yu Tong | Decided the topic for IEEE short paper | Ensuring Data Privacy through Data Governance in Enterprise Information System|
