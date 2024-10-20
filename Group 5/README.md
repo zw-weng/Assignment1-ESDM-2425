@@ -8,5 +8,4 @@
 # Milestones
 |No. | Date | Contributor | Activity | Description|
 |--|--|--|--|--|
-|1. | 7/10/2024 | Jesslyn, Nava | Dividing tasks for this assignment| Jesslyn-Main body(Opinion), Conclusion
-Nava-Abstract, Keywords, Introduction, Main body(Comparative Analysis of Previous Study)|
+|1. | 7/10/2024 | Jesslyn, Nava | Dividing tasks for this assignment| Jesslyn-Main body(Opinion), Conclusion; Nava-Abstract, Keywords, Introduction, Main body(Comparative Analysis of Previous Study)|
