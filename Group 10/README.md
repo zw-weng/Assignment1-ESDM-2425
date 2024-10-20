@@ -112,7 +112,7 @@
     </tr>
      <tr>
         <th>11</th>
-        <th>10/10/24</th>
+        <th>17/10/24</th>
         <td>Nur Aleysha Qurratu'aini Binti Mat Salleh</td>
         <td>Search on "Manufacturing Execution System in Industry 4.0 Era: From Implementation to Impacts on Job Design" in Google Scholar
         <br>Article used:https://link.springer.com/chapter/10.1007/978-3-031-38274-1_19
