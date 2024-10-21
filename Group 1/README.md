@@ -185,6 +185,62 @@
             1. https://scoop.market.us/robotic-process-automation-statistics/
             </td>
         </tr>
+        <tr>
+            <td>13.</td>
+            <td>18-10-2024</td>
+            <td>Maisarah binti Rizal</td>
+            <td>Research on General RPA Trends and Future Outlook</td>
+            <td>Searched Google Scholar using keywords: "How should organizations align RPA with long-term digital transformation strategies?"
+            <br>
+            Article(s) found: 
+            <br>
+            1. Tech Report RPA
+            <br>
+            2. Keys to RPA Success
+            </td>
+        </tr>
+        <tr>
+            <td>14.</td>
+            <td>18-10-2024</td>
+            <td>Maisarah binti Rizal</td>
+            <td>Research on RPA in Banking and Financial Services</td>
+            <td>Searched Google Scholar using keywords: "How can banks ensure operational resilience through RPA implementation?"
+            <br>
+            Article(s) found: 
+            <br>
+            1. Challenges in Banking and Solving Them Using RPA
+            <br>
+            2. RPA Implementation in Banking - Strategies and Best Practices
+            </td>
+        </tr>
+        <tr>
+            <td>15.</td>
+            <td>18-10-2024</td>
+            <td>Maisarah binti Rizal</td>
+            <td>Research on RPA in Education</td>
+            <td>Searched Google Scholar using keywords: "What are the recommended applications of RPA to streamline administrative processes in educational institutions?"
+            <br>
+            Article(s) found: 
+            <br>
+            1. Digitized and Automated a University Process with Robotic Process Automation 
+            <br>
+            2. Robotic Process Automation to Enhance Education’s Administration Process: Case of Attendance Checking and Reporting 
+            </td>
+        </tr>
+         <tr>
+            <td>16.</td>
+            <td>18-10-2024</td>
+            <td>Maisarah binti Rizal</td>
+            <td>Research on RPA in Healthcare</td>
+            <td>Searched Google Scholar using keywords: "What are the future RPA applications expected in patient care and administrative operations?"
+            <br>
+            Article(s) found: 
+            <br>
+            1. Robotic Process Automation (RPA) in Healthcare
+            <br>
+            2. RPA Adoption in Healthcare Application
+            </td>
+        </tr>
     </table>
 </div>
 
