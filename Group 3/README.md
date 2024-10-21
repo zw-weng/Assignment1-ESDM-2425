@@ -174,6 +174,22 @@
             1. https://transportgeography.org/contents/chapter7/logistics-freight-distribution/evolution-supply-chain-management/
             </td>
         </tr>
+        <tr>
+            <td>11.</td>
+            <td>20/10/2024</td>
+            <td>Tiew Chuan Rong</td>
+            <td>What is Supply chain management </td>
+            <td>Searched Google using keyword: "Introduction to Supply chain management "
+            <br>
+            <br>
+                Article(s) found:
+                <br>
+                1. https://www.projectmanager.com/blog/supply-chain-management<br>
+                2. https://www.investopedia.com/terms/s/scm.asp<br>
+                3. https://www.ibm.com/topics/supply-chain-management<br>
+                4. https://www.techtarget.com/searcherp/tutorial/Introduction-to-supply-chain-management-SCM-software
+            </td>
+        </tr>
     </table>
 </div>
 
