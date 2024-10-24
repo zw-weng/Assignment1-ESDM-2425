@@ -139,7 +139,7 @@
          <tr>
             <td>8.</td>
             <td>18/10/24</td>
-            <td></td>
+            <td>Mulyani Saripuddin</td>
             <td>Evolution of Supply Chain Management</td>
             <td>Searched Google using keyword: "Evolution of Supply Chain Management
             <br>
