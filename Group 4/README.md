@@ -19,8 +19,8 @@
             <td>A22EC0224</td>
         </tr>
         <tr>
-            <td>Joseph</td>
-            <td>A22EC</td>
+            <td>Joseph Lau Yeo Kai</td>
+            <td>A22EC0055</td>
         </tr>
     </table>
 </div>
