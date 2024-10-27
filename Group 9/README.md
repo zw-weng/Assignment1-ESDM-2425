@@ -100,6 +100,14 @@ Education</td>
     </tr>
     <tr>
         <td>10.</td>
+        <td>10/28/2024</td>
+        <td>NIK ZULAIKHAA</td>
+        <td>Literature Review</td>
+        <td>Implementing  An Enterprise Information System To Reengineer And Streamline Administrative Processes In A Distance Learning Unit</td>
+        <td>Article found:<br><a href="https://files.eric.ed.gov/fulltext/EJ862343.pdf">Link </a></td>
+    </tr>        
+    <tr>
+        <td>11.</td>
         <td></td>
         <td></td>
         <td></td>
