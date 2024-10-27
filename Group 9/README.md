@@ -99,7 +99,7 @@ Education</td>
         <td>Article found:<br><a href="https://www.oracle.com/my/database/what-is-a-data-warehouse/"> Data Warehouse </a></td>
     </tr>
     <tr>
-        <td>9.</td>
+        <td>10.</td>
         <td></td>
         <td></td>
         <td></td>
