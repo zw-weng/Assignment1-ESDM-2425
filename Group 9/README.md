@@ -94,7 +94,7 @@ Education</td>
         <td>9.</td>
         <td>10/28/2024</td>
         <td>NIK ZULAIKHAA</td>
-        <td>Literature Review</td>
+        <td>Definitions</td>
         <td>What Is a Data Warehouse? </td>
         <td>Article found:<br><a href="https://www.oracle.com/my/database/what-is-a-data-warehouse/"> Data Warehouse </a></td>
     </tr>
