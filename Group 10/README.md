@@ -67,7 +67,7 @@
         <th>11/10/24</th>
         <td>Low Ying Xi</td>
         <td>Search on "Case studies manufacturing enterprise information system" in Google Scholar
-        <br> Article used:https://link.springer.com/chapter/10.1007/978-3-642-33980-6_54
+        <br> Article used:https://link.springer.com/chapter/10.1007/978-3-642-33980-6_54 , https://www.tandfonline.com/doi/full/10.1080/00207540701263325 , https://www.sciencedirect.com/science/article/pii/S0166361521000907?via%3Dihub
         </td>
     </tr>
     <tr>
