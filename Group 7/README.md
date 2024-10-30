@@ -25,5 +25,5 @@
 | 8 | 22/10/2024 | Koh Su Xuan | Google Search | Supply Chain Management: Applications and Simulations | https://www.intechopen.com/chapters/17671 |
 | 9 | 23/10/2024 | Koh Su Xuan | Google Scholar | Supply Chain Management (SCM) | https://www.sciencedirect.com/science/article/abs/pii/S0969701202000072 |
 | 10 | 24/10/2024 | Koh Su Xuan | Google Scholar | Supply Chain Management Software | https://www.sciencedirect.com/science/article/abs/pii/S0360835219305856 |
-| 11 | 31/10/2024 | Koh Su Xuan | Google Search | Business Intelligence (BI) | https://www.researchgate.net/publication/284679162_Business_Intelligence_and_Analytics_From_Big_Data_to_Big_Impact |
-| 12 | 31/10/2024 | Koh Su Xuan | Google Search | Challenges in BI Implementation | https://www.velvetech.com/blog/bi-challenges/ |
+| 11 | 30/10/2024 | Koh Su Xuan | Google Search | Business Intelligence (BI) | https://www.researchgate.net/publication/284679162_Business_Intelligence_and_Analytics_From_Big_Data_to_Big_Impact |
+| 12 | 30/10/2024 | Koh Su Xuan | Google Search | Challenges in BI Implementation | https://www.velvetech.com/blog/bi-challenges/ |
