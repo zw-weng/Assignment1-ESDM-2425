@@ -15,3 +15,7 @@
 |2. | 08/10/2024 | Yu Tong | Conducted research |Website accessed:1. Security, privacy and forensics in the enterprise information systems (https://doi.org/10.1080/17517575.2020.1791364)<br>2. A Guide to Enterprise Data Protection Best Practices (https://www.digitalguardian.com/blog/guide-enterprise-data-protection-best-practices)<br>3. (https://cloud.google.com/learn/what-is-data-governance)| Completed | Start drafting literature review |
 |3. | 10/10/2024 | Yu Tong | Created Google document for writing paper | Document for draft initiated | Completed | Begin writing Introduction and Abstract |
 |4. | 11/10/2024 | Yu Tong, Daniel  | Discuss work distributions | **Abstract** : Yu Tong<br>**Introduction**: Daniel<br>**Topic Overview**: Yu Tong<br>**Key Data Governance Practice**: Daniel, Yu Tong<br>**Challenges and solutions**: Daniel, Yu Tong<br>**Conclusion**: Daniel<br>| Completed | Start working on respective sections |
+|5. | 15/10/2024 | Daniel, Yu Tong | Start writing main components of doc | Using many resources to gain idea on data governance, challenges and solutions | Completed | List down all references been used |
+|6. | 20/10/2024 | Daniel, Yu Tong | List down all references | Mostly used references from internet such as journal digital | Completed | Check and submit using Turnitin |
+|7. | 31/10/2024 | Daniel, Yu Tong | Check IEEE document | Check plagiarism using Turnitin and submit IEEE document | Completed | Focus on assignment 2 |
+
