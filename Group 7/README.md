@@ -26,4 +26,4 @@
 | 9 | 23/10/2024 | Koh Su Xuan | Google Scholar | Supply Chain Management (SCM) | https://www.sciencedirect.com/science/article/abs/pii/S0969701202000072 |
 | 10 | 24/10/2024 | Koh Su Xuan | Google Scholar | Supply Chain Management Software | https://www.sciencedirect.com/science/article/abs/pii/S0360835219305856 |
 | 11 | 30/10/2024 | Koh Su Xuan | Google Search | Business Intelligence (BI) | https://www.researchgate.net/publication/284679162_Business_Intelligence_and_Analytics_From_Big_Data_to_Big_Impact |
-| 12 | 30/10/2024 | Koh Su Xuan | Google Search | Challenges in BI Implementation | https://www.velvetech.com/blog/bi-challenges/ |
+| 12 | 31/10/2024 | Koh Su Xuan | Google Search | Challenges in BI Implementation | 1. https://www.velvetech.com/blog/bi-challenges/ <br> 2. https://www.mdpi.com/2076-3387/14/7/138 <br> 3. https://www.researchgate.net/profile/Manikandan-Sridharan/publication/379573149_Factors_driving_business_intelligence_adoption_an_extended_technology-organization-environment_framework/links/660fa241b839e05a20bd9a95/Factors-driving-business-intelligence-adoption-an-extended-technology-organization-environment-framework.pdf |
