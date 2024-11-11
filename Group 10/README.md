@@ -120,6 +120,7 @@
     </tr>
 </table>
 <h3>GAI References</h3>
-1. OpenAI. (2024).ChatGPT(Version 4). Retrieved November 5, 2024, from https://chatgpt.com/
+1. OpenAI. (2024). ChatGPT(Version 4). Retrieved November 5, 2024, from https://chatgpt.com/ </b>
+
 </body>
 </html>
