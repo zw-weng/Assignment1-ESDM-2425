@@ -28,7 +28,7 @@
 
 <br>
 
-
+<h3>Log Book</h3>
 <table border="1">
     <tr>
         <th>No</th>
@@ -119,6 +119,7 @@
         </td>
     </tr>
 </table>
-
+<h3>GAI References</h3>
+1. OpenAI. (2024).ChatGPT(Version 4). Retrieved November 5, 2024, from https://chatgpt.com/
 </body>
 </html>
