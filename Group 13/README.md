@@ -16,6 +16,10 @@
 |4. | 15/10/2024 | QY, Nicholas | Distributed task based on rubrics| 1. Abstract - QY<br> 2. Introduction - Nicholas <br> 3.Comparative analysis of previous studies - Nicholas<br> 4.Advantages and Disadvantages of The Selected Previous Study - QY<br> 5. Conclusion - Nicholas<br> References -Nicholas/QY |
 |5. | 16/10/2024 - Present | QY, Nicholas | Working on IEEE short paper | |
 
+<h3>GAI References</h3>
+1. OpenAI. (2024). ChatGPT(Version 4). Retrieved November 5, 2024, from https://chatgpt.com/ 
+
+
 
 
 
