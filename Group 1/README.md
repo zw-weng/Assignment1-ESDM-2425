@@ -244,5 +244,23 @@
     </table>
 </div>
 
+<br>
+
+<h3>GAI References</h3>
+<table>
+        <tr>
+            <th>No.</th>
+            <th>Name</th>
+            <th>GAI</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>OpenAI. (2024). ChatGPT(Version 4). Retrieved October 10, 2024, from https://chatgpt.com/ </b></td>
+            <td>Used ChatGPT to explain sentences that were not understandable in research papers. Asked ChatGPT about various terms like "Robotic Process Automation" and "OCR in Banking"</td>
+        </tr>
+</table>
+
 </body>
 </html>
