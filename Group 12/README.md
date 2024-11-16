@@ -63,7 +63,7 @@
 
 # The Use of Generative Artificial Intelligence(GAI)
 <ol style="list-style-type: none; padding-left: 0;">
-    <li>>2.3.1 The use of GAI must comply with Academic Regulations and other professional standard documents adopted by the university.</li>
+    <li>2.3.1 The use of GAI must comply with Academic Regulations and other professional standard documents adopted by the university.</li>
     <li>2.3.2 Ensure that writings and works list the GAI references used.</li>
     <li>2.3.3 The use of GAI must be listed in assignments and works for T&L activities, including the developer information, tool name, tool version, access date, and URL link (if available) based on the following format:
         <br>
