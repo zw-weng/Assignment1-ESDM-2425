@@ -118,5 +118,5 @@
 </div>
 
 <h3>GAI References</h3>
-1. OpenAI. (2024). ChatGPT (Version 4.0). Retrieved November 15, 2024, from https://chat.openai.com/
+1. OpenAI. (2024). ChatGPT (Version 4.0). Retrieved November 15, 2024, from https://chat.openai.com/<br>
 2. Napkin Technologies. (2024). Napkin AI (Version 1.0). Retrieved November 15, 2024, from https://www.napkin.ai/
