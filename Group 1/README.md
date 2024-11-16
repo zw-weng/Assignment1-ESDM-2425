@@ -257,8 +257,14 @@
         <tr>
             <td>1.</td>
             <td>Camily Tang Jia Lei</td>
-            <td>OpenAI. (2024). ChatGPT(Version 4). Retrieved October 10, 2024, from https://chatgpt.com/ </b></td>
-            <td>Used ChatGPT to explain sentences that were not understandable in research papers. Asked ChatGPT about various terms like "Robotic Process Automation" and "OCR in Banking"</td>
+            <td>OpenAI. (2024). ChatGPT(Version 4). Retrieved October 10, 2024, from https://chatgpt.com/</td>
+            <td>Used ChatGPT to explain sentences that were not understandable in research papers. Asked ChatGPT about various terms like "Robotic Process Automation" and "OCR in Banking".</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Quillbot Inc. (2024). Quillbot (v2.0). Retrieved November 16, 2024, from https://quillbot.com.</td>
+            <td>Used Quillbot for paraphrasing sentences and grammar checking.</td>
         </tr>
 </table>
 
