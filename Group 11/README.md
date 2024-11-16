@@ -17,3 +17,25 @@
 | 7   | 25/10/2024 | Tang Yan Qing           | Researching the Comparison Between TOGAF and ZACHMAN               | Found Article(s): <br> 1. [A Comparison of the Top Four Enterprise Architecture Frameworks](https://www.researchgate.net/publication/353847572_A_Comparison_of_the_Top_Four_Enterprise_Architecture_Frameworks) <br> 2. [Examining the Synergies and Differences Between Enterprise Architecture Frameworks: A Comparative Review](https://repository.cuk.ac.ke/xmlui/handle/123456789/1325) | 
 | 8   | 29/10/2024 | Nur Arini           | Researching the TOGAF's Approach to Enterprise Architecture Frameworks (EAFs)   | Found Article(s): <br> 1. [TOGAF Architecture Development Method Phases Explained](https://conexiam.com/togaf-adm-phases-explained/) <br> 2. [Understanding the Four Domains of Enterprise Architecture](https://www.snaplogic.com/blog/understanding-the-four-domains-of-enterprise-architecture) <br> 3. [Integrated Information Infrastructure Reference Model](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap22.html)| 
 | 9   | 29/10/2024 | Nur Arini & Tan Yan Qing  | Finalize the Academic Paper   | Completed and Undergoing Final Review | 
+
+<h3>GAI References</h3>
+<table>
+        <tr>
+            <th>No.</th>
+            <th>Name    </th>
+            <th>GAI</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>1. </td>
+            <td>Nur Arini  </td>
+            <td>Perplexity AI. (2024). Perplexity (Version 2.33.1). Retrieved October 11, 2024, from https://www.perplexity.ai.</td>
+            <td>Used for researching relevant references on The Open Group Architecture Framework (TOGAF).</td>
+        </tr>
+  <tr>
+            <td>2. </td>
+            <td>Nur Arini  </td>
+            <td>OpenAI. (2024). ChatGPT (Version 4.0). Retrieved etrieved October 14, 2024, https://chat.openai.com/chat.</td>
+            <td>Used as a rephrasing tool for complicated language found in documents. By asking ChatGPT to ‘simplify this text’ or ‘provide a simple analogy,’ the content becomes easier to comprehend.</td>
+        </tr>
+</table>
