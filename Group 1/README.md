@@ -257,13 +257,19 @@
         <tr>
             <td>1.</td>
             <td>Camily Tang Jia Lei</td>
-            <td>OpenAI. (2024). ChatGPT(Version 4). Retrieved October 10, 2024, from https://chatgpt.com/</td>
-            <td>Used ChatGPT to explain sentences that were not understandable in research papers. Asked ChatGPT about various terms like "Robotic Process Automation" and "OCR in Banking".</td>
+            <td>Typeset (2022). SciSpace (Version 1.0). Retrieved October 10, 2024, from https://quillbot.com.</td>
+            <td>Used SciSpace to find research papers using prompts like "RPA in banking", "RPA in education", and "RPA in healthcare".</td>
         </tr>
         <tr>
             <td>2.</td>
             <td>Camily Tang Jia Lei</td>
-            <td>Quillbot Inc. (2024). Quillbot (v2.0). Retrieved November 16, 2024, from https://quillbot.com.</td>
+            <td>OpenAI. (2024). ChatGPT(Version 4.0). Retrieved October 10, 2024, from https://chatgpt.com/</td>
+            <td>Used ChatGPT to explain sentences that were not understandable in research papers. Asked ChatGPT about various terms like "Robotic Process Automation" and "OCR in Banking".</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>Camily Tang Jia Lei</td>
+            <td>Learneo (2024). Quillbot (Version 2.0). Retrieved October 11, 2024, from https://quillbot.com.</td>
             <td>Used Quillbot for paraphrasing sentences and grammar checking.</td>
         </tr>
 </table>
