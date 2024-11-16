@@ -34,30 +34,28 @@
         </tr>
         <tr>
             <td>2.</td>
-            <td>  /10/24</td>
+            <td>  15/10/24</td>
             <td>Vinesh Vijayah Kumar</td>
             <td>Research on the importance of EIS in business</td>
             <td>Searched Google using keyword: "importance of Enterprise Information System in business"
                 <br><br>
                 Article(s) found:
                 <br>
-                1. <a href="https://examplelink1.com">https://examplelink1.com</a>
-                <br>
-                2. <a href="https://examplelink2.com">https://examplelink2.com</a>
+                1. INTRODUCTION TO ENTERPRISE SYSTEM FOR MANAGEMENT Lecture slide chapter 1, COPYRIGHT © 2012 PEARSON EDUCATION, INC. PUBLISHING
+                <br> 
             </td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>  /10/24</td>
+            <td>  16/10/24</td>
             <td>Vinesh Vijayah Kumar</td>
             <td>Research on future trends in EIS</td>
             <td>Searched Google using keyword: "future trends in Enterprise Information Systems"
                 <br><br>
                 Article(s) found:
                 <br>
-                1. <a href="https://examplelink3.com">https://examplelink3.com</a>
+                1. modeling and analysis of Enterprise Information System - elearning(e-book)
                 <br>
-                2. <a href="https://examplelink4.com">https://examplelink4.com</a>
             </td>
         </tr>
     </table>
