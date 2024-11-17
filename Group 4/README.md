@@ -91,13 +91,28 @@
         </tr>
         <tr>
             <td>5.</td>
-            <td></td>
-            <td></td>
+            <td>17-10-2024</td>
+            <td>Nadhrah NurSabrina</td>
             <td>Searched Google Scholar using keywords: 
             <br><br>
             Article(s) used: 
             <br>
-            1. 
+            1. https://datasciencedojo.com/blog/sql-or-nosql/
+            <br>
+            2. https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec
+            </td>
+        </tr>
+        <tr>
+            <td>6.</td>
+            <td>18-10-2024</td>
+            <td>Nadhrah NurSabrina</td>
+            <td>Searched Google Scholar using keywords: 
+            <br><br>
+            Article(s) used: 
+            <br>
+            1. https://medium.com/@ashutoshshashi/future-proofing-your-architecture-embracing-scalability-and-flexibility-c1204927995a
+            <br>
+            2. https://medium.com/@bisinet/the-role-of-automation-in-devops-d2cf6c166578
             </td>
         </tr>
     </table>
