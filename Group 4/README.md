@@ -51,7 +51,6 @@
             <td>2.</td>
             <td>10-10-2024</td>
             <td>Nadhrah NurSabrina</td>
-            <td></td>
             <td>Searched Google Scholar using keywords : designing for scability and flexibility    
             <br>
             <br>
@@ -66,7 +65,6 @@
             <td>3.</td>
             <td>11-10-2024</td>
             <td>Nadhrah NurSabrina</td>
-            <td></td>
             <td>Searched Google Scholar using keywords: 
             <br><br>
             Article(s) used: 
@@ -76,7 +74,6 @@
         </tr>
         <tr>
             <td>4.</td>
-            <td></td>
             <td></td>
             <td></td>
             <td>Searched Google Scholar using keywords: 
@@ -89,7 +86,6 @@
         </tr>
         <tr>
             <td>5.</td>
-            <td></td>
             <td></td>
             <td></td>
             <td>Searched Google Scholar using keywords: 
