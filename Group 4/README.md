@@ -44,7 +44,8 @@
             <br>
             Article(s) found:
             <br>
-            1. [https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html](https://www.mega.com/blog/what-is-enterprise-architecture-definition#:~:text=Enterprise%20architecture%20refers%20to%20the,for%20the%20organization's%20technology%20infrastructure.)
+            1. [https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html]
+            2. (https://www.mega.com/blog/what-is-enterprise-architecture-definition#:~:text=Enterprise%20architecture%20refers%20to%20the,for%20the%20organization's%20technology%20infrastructure.)
             </td>
         </tr>
         <tr>
