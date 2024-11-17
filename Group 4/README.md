@@ -33,13 +33,11 @@
             <th>Date</th>
             <th>Student Name</th>
             <th>Activity</th>
-            <th>Details</th>
         </tr>
         <tr>
             <td>1.</td>
             <td>10-10-2024</td>
             <td>Nadhrah NurSabrina</td>
-            <td></td>
             <td>Searched Google using keyword: 
             "What is Enterprise System Architecture?"
             <br>
