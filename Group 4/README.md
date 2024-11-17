@@ -45,6 +45,7 @@
             Article(s) found:
             <br>
             1. [https://www.sap.com/sea/products/technology-platform/process-automation/what-is-rpa.html]
+            <br>
             2. (https://www.mega.com/blog/what-is-enterprise-architecture-definition#:~:text=Enterprise%20architecture%20refers%20to%20the,for%20the%20organization's%20technology%20infrastructure.)
             </td>
         </tr>
@@ -57,32 +58,35 @@
             <br>
             Article(s) found:
             <br>
-            1. https://vectoral.org/index.php/IJSICS/article/view/142
+            1. Bernard, S. A. (2012). An introduction to enterprise architecture: Third Edition. AuthorHouse.
             <br>
             2. https://www.spiceworks.com/tech/devops/articles/what-are-microservices/
+            <br>
+            3. https://moldstud.com/articles/p-the-importance-of-scalability-and-flexibility-in-software-architecture
             </td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>11-10-2024</td>
+            <td>14-10-2024</td>
             <td>Nadhrah NurSabrina</td>
             <td>Searched Google Scholar using keywords: 
             <br><br>
             Article(s) used: 
             <br>
-            1. 
+            1. Niknejad, N., & Ismail, W. (2020). Understanding Service-Oriented Architecture (SOA): A systematic literature review and directions for further investigation (Vol. 9). Elsevier B.V. 
             </td>
         </tr>
         <tr>
             <td>4.</td>
-            <td></td>
-            <td></td>
+            <td>16-10-2024</td>
+            <td>Nadhrah NurSabrina</td>
             <td>Searched Google Scholar using keywords: 
             <br><br>
             Article(s) used: 
             <br>
-            1. 
+            1. https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling/#:~:text=While%20horizontal%20scaling%20refers%20to,%2C%20storage%2C%20or%20network%20speed.
             <br>
+            2. https://www.javatpoint.com/cloud-computing-architecture
             </td>
         </tr>
         <tr>
