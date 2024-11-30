@@ -115,6 +115,19 @@
             2. https://medium.com/@bisinet/the-role-of-automation-in-devops-d2cf6c166578
             </td>
         </tr>
+        <tr>
+            <td>7.</td>
+            <td>29-11-2024</td>
+            <td>JOSEPH LAU YEO KAI</td>
+            <td>Searched Google using keywords: Enterprise Architecture
+            <br><br>
+            Article(s) used: 
+            <br>
+            1. https://www.joams.com/uploadfile/2017/1227/20171227032224791.pdf
+            <br>
+            2. https://www.mdpi.com/2071-1050/16/20/8865
+            </td>
+        </tr>
     </table>
 </div>
 <h3>GAI References</h3>
