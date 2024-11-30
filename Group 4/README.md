@@ -128,6 +128,18 @@
             2. https://www.mdpi.com/2071-1050/16/20/8865
             </td>
         </tr>
+        <tr>
+            <td>7.</td>
+            <td>30-11-2024</td>
+            <td>JOSEPH LAU YEO KAI</td>
+            <td>Searched Google using keywords: Framework of enterprise architecture
+            <br><br>
+            Article(s) used: 
+            <br>
+            1. https://www.perlego.com/book/2920543/the-practice-of-enterprise-architecture-a-modern-approach-to-business-and-it-alignment-pdf
+            </br>
+            </td>
+        </tr>
     </table>
 </div>
 <h3>GAI References</h3>
