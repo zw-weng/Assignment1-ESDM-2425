@@ -4,7 +4,7 @@
 ## GROUP MEMBERS
 |No. | Member Name | Matric No|
 |--|--|--|
-|1. | Vinesh Vijayah Kumar   |A22EC   |
+|1. | Vinesh Vijayah Kumar   |A22EC0290|
 |2. | TIEW CHAUN SHEN | A22EC0113|
 
 
@@ -62,6 +62,7 @@
 </div>
 
 # The Use of Generative Artificial Intelligence(GAI)
+<b>Rules and Regulations</b>
 <ol style="list-style-type: none; padding-left: 0;">
     <li>2.3.1 The use of GAI must comply with Academic Regulations and other professional standard documents adopted by the university.</li>
     <li>2.3.2 Ensure that writings and works list the GAI references used.</li>
@@ -81,3 +82,24 @@
         </ol>
     </li>
 </ol>
+<table>
+        <tr>
+            <th>No.</th>
+            <th>Date</th>
+            <th>Resouces/Activity</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>14/12/24</td>
+            <td>Template for full papers for The KDU International Research Symposium Proceedings. (2014). Retrieved October 14, 2024, from [https://www.phrasebank.manchester.ac.uk/introducing-work/](https://s3.studylib.net/store/data/007108974_1-c52c8cdc16d73681efb5c556055d24f2-768x994.png) </td>
+            <td>It is a reference or guideline to follow so the format and structure of the academic paper are organized and neat.</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>18/12/24</td>
+            <td>Introducing work. (n.d.). Academic Phrasebank. (8 August 2021). Retrieved October 14, 2024, from https://www.phrasebank.manchester.ac.uk/introducing-work/ </td>
+            <td>Extract main points from online articles and paraphrase them then connect with the phrases in the phrase bank provided. It is a good practice to humanize the AI tools.</td>
+        </tr>
+
+
