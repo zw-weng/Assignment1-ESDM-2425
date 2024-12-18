@@ -91,8 +91,9 @@
         </tr>
         <tr>
             <td>1.</td>
-            <td>14/12/24</td>
-            <td>Template for full papers for The KDU International Research Symposium Proceedings. (2014). Retrieved October 14, 2024, from [https://www.phrasebank.manchester.ac.uk/introducing-work/](https://s3.studylib.net/store/data/007108974_1-c52c8cdc16d73681efb5c556055d24f2-768x994.png) </td>
+            <td>18/12/24</td>
+            <td>Template for full papers for The KDU International Research Symposium Proceedings. (2014). Retrieved October 14, 2024, from https://s3.studylib.net/store/data/007108974_1-c52c8cdc16d73681efb5c556055d24f2-768x994.png
+</td>
             <td>It is a reference or guideline to follow so the format and structure of the academic paper are organized and neat.</td>
         </tr>
         <tr>
